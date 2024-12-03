@@ -26,3 +26,7 @@ Configured Jenkins, Nexus, SonarQube, and Tomcat for a Full CI/CD Pipeline on AW
 - Automated artifact uploads and deployments with Jenkins and Nexus.
 - Implemented SonarQube quality checks in Jenkins to ensure high code quality before deployment.
 
+
+![image](https://github.com/user-attachments/assets/3e4b0f78-77d1-4117-b0d6-0216d309307f)
+![image](https://github.com/user-attachments/assets/9e9912ef-065f-48e9-9201-10494da07dc1)
+
